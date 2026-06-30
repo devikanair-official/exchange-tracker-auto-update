@@ -27,7 +27,7 @@ An AI-powered nightly automation that:
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/exchange-tracker-auto-update.git
+git clone https://github.com/devikanair-official/exchange-tracker-auto-update.git
 cd exchange-tracker-auto-update
 2. Create a virtual environment
 python -m venv venv
