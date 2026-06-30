@@ -220,10 +220,6 @@ __marimo__/
 # Environment / secrets
 .env
 
-# Tracker file (client provides their own)
-data/*.xlsx
-data/*.xls
-
 # Logs
 logs/*.log
 
