@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# ── Project-specific ──────────────────────────────────
+# Environment / secrets
+.env
+
+# Tracker file (client provides their own)
+data/*.xlsx
+data/*.xls
+
+# Logs
+logs/*.log
+
+# ── OS ────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
